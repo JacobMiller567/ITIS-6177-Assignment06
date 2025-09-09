@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "c5ca",
+      "title": "The Book",
+      "author": "Jacob"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "posrId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
